@@ -2,6 +2,7 @@
 This repository contains the server implementation for the European Funds Information Platform. The server is built using Python and Flask, and it facilitates communication between the frontend application and the OpenAI API for generating responses from the integrated chatbot.
 
 **Features**
+
 The European Funds Information Platform Server offers the following features:
 
 API Communication: The server handles HTTP requests from the frontend application and forwards them to the OpenAI API for generating responses from the chatbot.
